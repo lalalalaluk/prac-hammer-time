@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cabinFloor.obj-8c917ccad9dcd67b8f3f283a5079f3fb.mesh"
+
+[deps]
+
+files=[ "res://.import/cabinFloor.obj-8c917ccad9dcd67b8f3f283a5079f3fb.mesh" ]
+
+source_file="res://assets/models/plank/cabinFloor.obj"
+dest_files=[ "res://.import/cabinFloor.obj-8c917ccad9dcd67b8f3f283a5079f3fb.mesh", "res://.import/cabinFloor.obj-8c917ccad9dcd67b8f3f283a5079f3fb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

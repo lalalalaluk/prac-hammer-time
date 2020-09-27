@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/hammer.obj-f76ceda104f658ac3a3512fdd5759df0.mesh"
+
+[deps]
+
+files=[ "res://.import/hammer.obj-f76ceda104f658ac3a3512fdd5759df0.mesh" ]
+
+source_file="res://assets/models/hammer/hammer.obj"
+dest_files=[ "res://.import/hammer.obj-f76ceda104f658ac3a3512fdd5759df0.mesh", "res://.import/hammer.obj-f76ceda104f658ac3a3512fdd5759df0.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
